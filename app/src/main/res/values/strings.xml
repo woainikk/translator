@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Let`s translate!</string>
+    <string name="russianLanguage">ru</string>
+    <string name="englishLanguage">en</string>
+    <string name="translate">Translate</string>
+    <string name="editTextEnterText">Enter text</string>
+    <string name="textViewYourTranslation">Your translation</string>
+</resources>
